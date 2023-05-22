@@ -1,2 +1,2 @@
 # TESTE-FUNCIONAL-PHP
-Teste feito com php unit
+Teste feito com php unit.
